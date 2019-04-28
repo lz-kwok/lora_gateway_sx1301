@@ -408,3 +408,4 @@ employees, subsidiaries, affiliates, and distributors harmless against all
 claims, costs damages and attorney fees which could arise.
 
 *EOF*
+# lora_gateway_sx1301
